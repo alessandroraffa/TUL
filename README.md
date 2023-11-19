@@ -1,5 +1,7 @@
 # TUL - Tul Utility Library
 
+![TUL logo](TUL-logo.png)
+
 TUL (Tul Utility Library) is a multi-language utility library aimed at simplifying and enhancing software development. Rooted in practicality, it initially launches with a TypeScript foundation, complemented by a Command Line Interface (CLI). This establishes a versatile framework for future expansions across diverse programming languages, catering to the evolving demands of the developer community.
 
 The library's name, TUL, evokes dual imagery. It's a nod to the practicality and indispensability of a "tool" in any developer's arsenal, designed to streamline tasks and boost efficiency. Simultaneously, it draws an analogy to a "tulip," symbolizing growth, simplicity, and natural beauty. This reflects TUL's commitment to fostering innovation and ease within the developer's environment, much like a tulip enriching a garden.
@@ -213,6 +215,12 @@ TUL is released under the [MIT License](LICENSE). This open-source license ensur
 ## Acknowledgements
 
 Special thanks to all contributors who have dedicated their time and expertise to enhance TUL. Your contributions are immensely appreciated and are a significant part of our journey.
+
+## Projects Using TUL
+
+This section showcases projects that utilize the TUL library. If you're using TUL in your project and would like to be featured here, please submit a pull request with your project details.
+
+We love to see the community finding ways to use TUL, and we're excited to showcase your work!
 
 ## Contact
 
