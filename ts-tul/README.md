@@ -1,3 +1,3 @@
-# ts-tul: TypeScript TUL (Tul Utility Library)
+# ts-tul: TypeScript TUL (TUL Utility Library)
 
 TODO
