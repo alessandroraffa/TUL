@@ -8,13 +8,15 @@
     "typescript",
     "typescriptreact"
   ],
+  "eslint.workingDirectories": [
+    { "directory": "./ts-tul/library", "changeProcessCWD": true }
+  ],
   "editor.formatOnSave": true,
-  "[typescript]": { 
+  "[typescript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
-  }, 
+  },
   "[typescriptreact]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "editor.tabSize": 2
 }
- 
