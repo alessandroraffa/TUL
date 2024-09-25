@@ -1,5 +1,5 @@
-import { passwordLength } from '../../src/generatePassword';
-import { generatePassword } from '../../src/index';
+import { passwordLength } from './generatePassword';
+import { generatePassword } from './index';
 describe('test generatePassword', () => {
   it('should throw', () => {
     expect(() => generatePassword(7)).toThrow(Error);
